@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3498DB</color>
+    <color name="colorPrimaryDark">#3498DB</color>
+    <color name="colorAccent">#3498DB</color>
+
+    <color name="colorWeakGray">#F7F7f7</color>
+    <color name="colorGrayNormal">#d9d9d9</color>
+    <color name="colorMain">#3498DB</color>
+    <color name="colorGrayBg">#e9e9e9</color>
+
+    <color name="colorTabPress">#3498DB</color>
+    <color name="colorTabNormal">#DDDDDD</color>
+    <color name="colorTopTabBg">#288CD7</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="etHint">#ECF0F1</color>
+    <color name="colorline">#BDC3C7</color>
+    <color name="login_bt_press">#2980B9</color>
+    <color name="color_all">#85B2F6</color>
+    <color name="color_disconnect">#DDDDDD</color>
+    <color name="color_iding">#FFD56A</color>
+    <color name="color_working">#2ECC71</color>
+    <color name="color_faluting">#E74C3C</color>
+    <color name="color_et_search_hint">#EEEEEE</color>
+    <color name="color_item_dashboard_gapline">#F7F7f7</color>
+    <color name="colorMsgTime">#FF9900</color>
+
+    <color name="colorMsgText">#707D86</color>
+    <color name="colorLine">#BDC3C7</color>
+
+
+    <color name="colorLoginBtPress">#2980B9</color>
+    <color name="colorSettingText">#707D86</color>
+
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_gray_light">#99C9C9C9</color>
+    <color name="color_black_light">#99000000</color>
+
+    <color name="colorDeletPress">#C0392B</color>
+    <color name="colorDelete">#E74C3C</color>
+    <color name="colorHintText">#CECECE</color>
+    <color name="colorTrasparentWhite">#94c6eb</color>
+
+    <color name="colorModel">#7f88B9Dc</color>
+    <color name="colorHint">#ECF0F1</color>
+    <color name="colorGridLine">#ECEFF3</color>
+
+    <color name="colorState">#63C961</color>
+    <color name="colorMachineLine">#1d679f</color>
+    <color name="colorMachineItemLine">#cacfd2</color>
+    <color name="colorMachineItemText">#999999</color>
+    <color name="colorMachineRule">#8fc1e7</color>
+
+    <color name="colorMachineButtomLine">#CFCFCF</color>
+
+    <!-- cropper start -->
+    <color name="white_translucent">#AAFFFFFF</color>
+    <color name="black_translucent">#B0000000</color>
+
+    <color name="border">@color/white_translucent</color>
+    <color name="guideline">@color/white_translucent</color>
+    <color name="corner">@android:color/white</color>
+    <color name="surrounding_area">@color/black_translucent</color>
+    <!-- cropper end-->
+    <color name="background_window">#FFE5E5E5</color>
+
+    <color name="color_uncheck">#7fffffff</color>
+    <color name="colorMachineDetailChooseBg">#f0f2f5</color>
+
+    <color name="colorTextBlue">#4fc1e9</color>
+    <color name="colorAlphaWhite">#1effffff</color>
+    <color name="colorIconGray">#f0f2f5</color>
+    <color name="colorMyGray">#d7d8dd</color>
+    <color name="colorGapGray">#e7e9ec</color>
+    <color name="colorRate">#ccebff</color>
+
+    <color name="colorWeekText">#FF9900</color>
+    <color name="colorGray">#9e9e9e</color>
+    <color name="colorPress">#0087E1</color>
+    <color name="colorItem">#F6F6F6</color>
+    <color name="color_utilization">#2BA3EF</color>
+    <color name="colorNormal">#666666</color>
+    <color name="colorBlueLine">#2B92E0</color>
+
+    <color name="colorRed">#ed5565</color>
+    <color name="colorGreen">#a0d468</color>
+    <color name="colorYellow">#ffce54</color>
+
+    <color name="colorBadManageLine">#f0f2f5</color>
+
+
+    <color name="color_mac_one">#3498db</color>
+    <color name="color_mac_two">#ff9900</color>
+    <color name="color_mac_three">#28b779</color>
+    <color name="color_mac_other">#4b587c</color>
+
+    <color name="color_mac_one_half">#7f3498db</color>
+    <color name="color_mac_two_half">#7fff9900</color>
+    <color name="color_mac_three_half">#7f28b779</color>
+    <color name="color_mac_other_half">#7f4b587c</color>
+
+    <color name="colorDesc">#010101</color>
+</resources>
